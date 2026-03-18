@@ -10,3 +10,4 @@ agentcon pizza workshop using Google ADK and Microsoft agent sdk
 # MCP userID
 1. npx -y @modelcontextprotocol/inspector
 2. anjif7ba9ed9-d602-498d-acb3-8f2920fae6d1
+3. https://ca-pizza-mcp-sc6u2typoxngc.graypond-9d6dd29c.eastus2.azurecontainerapps.io/sse
